@@ -1,0 +1,4 @@
+1.先把Android,androidBack安装到tomcat服务器，
+2.Ctos12.zipAndroid端
+3.改IP地址。
+4.数据库运行test.sql
